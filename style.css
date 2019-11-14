@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     display: grid;
     grid-gap: 20px;
@@ -7,6 +8,11 @@
 .zone {
     cursor: pointer;
     /* display: inline-block; */
+=======
+.zone {
+    cursor: pointer;
+    display: inline-block;
+>>>>>>> 30a3a42e8dc6ce23a25b59cf62270ba9a1ed12d0
     text-align: center;
     font-size: 10em;
     border-radius: 4px;
