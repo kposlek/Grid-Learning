@@ -6,8 +6,8 @@
 }
 
 .green {
-    grid-column-start: 1;
-    grid-column-end: 3;
+    /* grid-column: 1/-1; */
+    grid-column: span 2;
 }
 
 .zone {
